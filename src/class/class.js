@@ -18,7 +18,7 @@ class Point {
     }
 
     /**
-     * Get the y value.
+     * Get the y value. My comment 
      * @return {number} The y value.
      */
     getY() {
